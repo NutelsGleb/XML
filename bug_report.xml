@@ -1,1 +1,11 @@
-
+<body>	
+	<ID>3201</ID>
+	<Summery>Field 'Birthday' on registration form accept invalid data</Summery>
+	<Severity>Major</Severity>
+	<steps_to_reproduce><fr>open site.com</fr>
+			<se>click 'dont have accont?' button</se>
+			<th>enter current data</th>
+	</steps_to_reproduce>
+	<Result>Data stay in field</Result>
+	<Expected_Result>message 'invalid value'</Expected_Result>
+</body>
